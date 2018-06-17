@@ -1,4 +1,4 @@
-# Work in progress!
+# 🔰 Work in progress!
 
 For a more completed guide, see the Proofreading 101 guide by [tyresonance from Immortal Abyss forums](Immortalabyss-Proofreading%20101.md).
 
