@@ -59,13 +59,13 @@ In addition to that, there's:
 ### Hiragana and Katakana
 
 Hiragana (i.e. ひらがな) and katakana (i.e. カタカナ) are similar scripts where each symbol basically corresponds to a syllable. There's 46 (ish) of each. The table below contains both hiragana (left) and katakana (right).
-|   | /     | k          | s     | t          | n          | h     | m     | y     | r     | w      |
-|---|-------|------------|-------|------------|------------|-------|-------|-------|-------|--------|
-| a | あ ア | **か**  カ | さ サ  | **た**  タ | **な**  ナ | は ハ | ま マ | や ヤ | ら ラ | わ  ワ |
-| i | い イ | き キ      | し シ  | ち チ      | に ニ      | ひ ヒ | み ミ |       | り リ | ゐ ヰ  |
-| u | う ウ | く ク      | す ス  | つ ツ      | ぬ ヌ      | ふ フ | む ム | ゆ ユ | る ル |        |
-| e | え エ | け ケ      | せ セ  | て テ      | ね ネ      | へ ヘ | め メ |       | れ レ | ゑ ヱ  |
-| o | お オ | こ コ      | そ ソ  | と ト      | の ノ      | ほ ホ | も モ | よ ヨ | ろ ロ | を     |
+ |**/**|**k**|**s**|**t**|**n**|**h**|**m**|**y**|**r**|**w**
+:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:
+a|あ ア|か カ|さ サ|た タ|な ナ|は ハ|ま マ|や ヤ|ら ラ|わ ワ
+i|い イ|き キ|し シ|ち チ|に ニ|ひ ヒ|み ミ| |り リ|ゐ ヰ
+u|う ウ|く ク|す ス|つ ツ|ぬ ヌ|ふ フ|む ム|ゆ ユ|る ル| 
+e|え エ|け ケ|せ セ|て テ|ね ネ|へ ヘ|め メ| |れ レ|ゑ ヱ
+o|お オ|こ コ|そ ソ|と ト|の ノ|ほ ホ|も モ|よ ヨ|ろ ロ|を
    
 The first column are just sounds A, E, I, O, U, while further columns indicate sounds like KA, SI, TU, NE, etc. You may notice there's no letter L anywhere, which is one of the reasons Japanese people can't really pronounce words containing L without resorting to R.
 
