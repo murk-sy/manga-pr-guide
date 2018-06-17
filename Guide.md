@@ -1,6 +1,6 @@
 # Work in progress
 
-For now, see the Proofreading 101 guide by [tyresonance from Immortal Abyss forums](../Immortalabyss-Proofreading%20101.md).
+For now, see the Proofreading 101 guide by [tyresonance from Immortal Abyss forums](Immortalabyss-Proofreading%20101.md).
 
 
 
@@ -15,4 +15,4 @@ For now, see the Proofreading 101 guide by [tyresonance from Immortal Abyss foru
 
 * [Weblio.jp](https://translate.weblio.jp/) is a Japanese based translation service which may be able to give you some more insight into words that Google can't, such as slang words or alternate meanings.
 
-*[Sjlfaq.org Kanji search](https://kanji.sljfaq.org/) can help you out a bit more than google when you run into characters
+* [Sjlfaq.org Kanji search](https://kanji.sljfaq.org/) can help you out a bit more than google when you run into characters
