@@ -1,10 +1,10 @@
-# 🔰 Work in progress!
+# 🔰Work in progress!
 
 For a more completed guide, see the Proofreading 101 guide by [tyresonance from Immortal Abyss forums](Immortalabyss-Proofreading%20101.md).
 
 
 
-# 🛂 Introduction
+# 🛂Introduction
 
 So you've read some manga and thought "Hey, I want to help with that!" and decided that proofreading sounds like something you'd like to do. That's great!
 
@@ -14,7 +14,7 @@ This guide covers the scanlation process from Japanese to English so some inform
 
 
 
-# 💮 The scanlation process
+# 💮The scanlation process
 
 As a proofreader, you're just a piece of the puzzle in the entire process. The people involved are the following:
 
@@ -30,11 +30,11 @@ The actual order the process takes place in may depend on the group and project,
 
 
 
-# 🗾 "Reading" Japanese
+# 🗾"Reading" Japanese
 
-> ⚠️ **Important: You do not *need* to read and understand this section to start proofreading.** This section is extremely simplified and some terms may be misnamed to get basic concepts across, based on my own understanding. Some of these will help you understand how and why some text is written the way it is. *You don't need to memorize symbols or anything like that.* Additionally, this is **not** a basis for learning Japanese by any stretch of the imagination. Sources for this information are mostly listed in the [Sources](Sources.md) file. 
+> ⚠️**Important: You do not *need* to read and understand this section to start proofreading.** This section is extremely simplified and some terms may be misnamed to get basic concepts across, based on my own understanding. Some of these will help you understand how and why some text is written the way it is. *You don't need to memorize symbols or anything like that.* Additionally, this is **not** a basis for learning Japanese by any stretch of the imagination. Sources for this information are mostly listed in the [Sources](Sources.md) file. 
 
-## 💬 Direction
+## 💬Direction
 
 East Asian scripts (Chinese, Japanese and Korean) have a common feature of being able to be written either top to bottom, left to right, right to left or even bottom to top. The last one is rare, but having text written in reverse on one side of a truck (so it's front to back on both sides) might be something you run into.
 
@@ -44,7 +44,7 @@ Text in manga or literature, however, is read the traditional way: top to bottom
 
 Note that manga drawn in the style of 4-koma (4 panel top to bottom and usually self-contained manga) is sometimes drawn as 2 columns per page, in which case they must be read the same as text: panels top to bottom, and then columns of panels right to left.
 
-## 😨 Japanese writing system
+## 😨Japanese writing system
 
 There are 3 different scripts used in Japanese (collectively called Kana):
 * Hiragana
@@ -56,7 +56,7 @@ In addition to that, there's:
 * Arabic numerals - used in horizontal text (kanji also has a numeric system)
 
 
-### 🈁 Hiragana and Katakana
+### 🈁Hiragana and Katakana
 
 Hiragana (i.e. ひらがな) and katakana (i.e. カタカナ) are similar scripts where each symbol basically corresponds to a syllable. There's 46 (ish) of each. The table below contains both hiragana (left) and katakana (right).
 
@@ -74,7 +74,7 @@ For example, if you take the word かたかな and find it in the table (they're
 
 Hiragana is generally used native words, while Katakana is used for borrowed words such as コーヒー (*koffie*), meaning coffee. In addition to that, Katakana is used for onomatopoeia (sound effects).
 
-### ㊙️ Kanji
+### ㊙️Kanji
 
 Kanji (ie: 漢字) is a script based on Chinese Han characters, where each symbol represents a concept, basically either a noun or a verb. There are 2000 to 3000 kanji in everyday use, and there is no exact count of how many there are in total - over 50 thousand at the very least.
 
