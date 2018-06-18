@@ -1,20 +1,20 @@
-# 🔰Work in progress!
+# 🔰 Work in progress!
 
 For a more completed guide, see the Proofreading 101 guide by [tyresonance from Immortal Abyss forums](Immortalabyss-Proofreading%20101.md).
 
 
 
-# 🛂Introduction
+# 🛂 Introduction
 
 So you've read some manga and thought "Hey, I want to help with that!" and decided that proofreading sounds like something you'd like to do. That's great!
 
-**As a proofreader, your most basic task is taking translated text and making sure it sounds natural.** This does not mean just fixing grammar mistakes and changing awkward word order - sometimes you will have to completely rewrite the entire speech bubble to make it sound natural. How difficult your job actually ends up being depends mostly on the skill and experience of the translator before you.
+**As a proofreader, your most basic task is taking translated text and making sure it sounds natural.** This does not mean just fixing grammatical mistakes and changing awkward word order - sometimes you'll have to completely rewrite the entire speech bubble to make it sound natural. How difficult your job actually ends up being depends mostly on the skill and experience of the translator.
 
 This guide covers the scanlation process from Japanese to English so some information is specific to that. At the time of writing this guide, I've only been proofreading for a few weeks, so don't take this document as a holy commandment.
 
 
 
-# 💮The scanlation process
+# 💮 The scanlation process
 
 As a proofreader, you're just a piece of the puzzle in the entire process. The people involved are the following:
 
@@ -30,11 +30,11 @@ The actual order the process takes place in may depend on the group and project,
 
 
 
-# 🗾"Reading" Japanese
+# 🗾 "Reading" Japanese
 
-> ⚠️**Important: You do not *need* to read and understand this section to start proofreading.** This section is extremely simplified and some terms may be misnamed to get basic concepts across, based on my own understanding. Some of these will help you understand how and why some text is written the way it is. *You don't need to memorize symbols or anything like that.* Additionally, this is **not** a basis for learning Japanese by any stretch of the imagination. Sources for this information are mostly listed in the [Sources](Sources.md) file. 
+> ⚠️ **Important:** You do not *need* to read and understand this section to start proofreading. **This section is extremely simplified and some terms may be misnamed to get basic concepts across, based on my own understanding.** Some of these will help you understand how and why some text is written the way it is. *You don't need to memorize symbols or anything like that.* Additionally, this is **not** a basis for learning Japanese by any stretch of the imagination. Sources for this information are mostly listed in the [Sources](Sources.md) file. 
 
-## 💬Direction
+## 💬 Direction
 
 East Asian scripts (Chinese, Japanese and Korean) have a common feature of being able to be written either top to bottom, left to right, right to left or even bottom to top. The last one is rare, but having text written in reverse on one side of a truck (so it's front to back on both sides) might be something you run into.
 
@@ -44,9 +44,9 @@ Text in manga or literature, however, is read the traditional way: top to bottom
 
 Note that manga drawn in the style of 4-koma (4 panel top to bottom and usually self-contained manga) is sometimes drawn as 2 columns per page, in which case they must be read the same as text: panels top to bottom, and then columns of panels right to left.
 
-## 😨Japanese writing system
+## 😨 Japanese writing system
 
-There are 3 different scripts used in Japanese (collectively called Kana):
+There are 3 different scripts used in Japanese (collectively called **Kana**):
 * Hiragana
 * Katakana
 * Kanji
@@ -56,7 +56,7 @@ In addition to that, there's:
 * Arabic numerals - used in horizontal text (kanji also has a numeric system)
 
 
-### 🈁Hiragana and Katakana
+### 🈁 Hiragana and Katakana
 
 Hiragana (i.e. ひらがな) and katakana (i.e. カタカナ) are similar scripts where each symbol basically corresponds to a syllable. There's 46 (ish) of each. The table below contains both hiragana (left) and katakana (right).
 
@@ -72,9 +72,11 @@ The first column are just sounds A, E, I, O, U, while further columns indicate s
 
 For example, if you take the word かたかな and find it in the table (they're bolded), you will find that it spells KA-TA-KA-NA. If you do the same for カタカナ, you will find that the end result is exactly the same.
 
-Hiragana is generally used native words, while Katakana is used for borrowed words such as コーヒー (*koffie*), meaning coffee. In addition to that, Katakana is used for onomatopoeia (sound effects).
+Hiragana is generally used for native words, while Katakana is used much more broadly. Borrowed words such as コーヒー (*koffie*, meaning coffee), onomatopoeia (sound effects), and also any words where the actual meaning is not known or incomprehensible, all use Katakana.
 
-### ㊙️Kanji
+
+
+### ㊙️ Kanji
 
 Kanji (ie: 漢字) is a script based on Chinese Han characters, where each symbol represents a concept, basically either a noun or a verb. There are 2000 to 3000 kanji in everyday use, and there is no exact count of how many there are in total - over 50 thousand at the very least.
 
@@ -84,9 +86,28 @@ As an example, take 日本. Each symbol has multiple meanings:
 
 Both symbols together mean "origin of the sun", which should remind you of the phrase "Land of the rising sun".
 
-Because of the difficulty of reading less common kanji, they often have additional smaller characters written next to them (or above, in case of horizontal text) called furigana. Furigana is just the name of the reading aid and is not a separate script - generally, hiragana is used, though katakana or latin can also be used.
+> 💡 An important note on kanji is that in addition of multiple meanings, each symbol has *at least* 2 different ways of reading them. As names are written in kanji, they often include a reading aid (see Furigana). In manga, this sometimes leads to situations where a character will misread someone's name or a sign, which means the proofreader has to deal with the fallout of conveying the misunderstanding to the reader.
 
-> 💡 An important note on kanji is that in addition of multiple meanings, each symbol has *at least* 2 different ways of reading them. In manga, this sometimes leads to situations where a character will misread someone's name or a sign, which means the proofreader has to deal with the fallout of conveying the misunderstanding to the reader.
+#### 📛 Furigana
+
+Because of the difficulty of reading less common kanji, there are often additional smaller characters written next to them (or above, in case of horizontal writing) called furigana. Despite the similar name, furigana is just the name of the reading aid and is not a separate script.
+
+Furigana by itself provides only information on how to read the kanji - the actual meaning of the kanji is not conveyed. It can, however, be used to convey hidden meanings. For example, kanji 男（おとこ, meaning "man") might have furigana ヒーロー (meaning "hero").
+
+Hiragana is most commonly used, though katakana or latin also make appearances.
+
+
+## ❔ Punctuation and typographical symbols
+
+To make writing easier (or reading harder), there are several symbols that affect the way you read kana symbols.
+
+~~(TODO: Repetition marks, phonetic marks, somehow explain voiced consonants, other common quotation marks)~~
+
+Because repetition symbols used resemble quotation marks, different symbols are used for quotes:
+
+* **「** Quotation marks for when you're quoting someone. **」**
+* **『** Double quotation marks, for things like book titles **』**
+
 
 
 
