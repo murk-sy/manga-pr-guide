@@ -10,6 +10,7 @@ So you've read some manga and thought "Hey, I want to help with that!" and decid
 
 This guide covers the scanlation process from Japanese to English so some information is specific to that. At the time of writing this guide, I've only been proofreading for a few weeks, so don't take this document as a holy commandment.
 
+Don't let its length discourage you
 
 
 # 💮 The scanlation process
@@ -30,7 +31,17 @@ The actual order the process takes place in may depend on the group and project,
 
 # 🕵️ Proofreading
 
-**As a proofreader, your most basic task is taking translated text and making sure it sounds natural.** This does not mean just fixing grammatical mistakes and changing awkward word order - sometimes you'll have to completely rewrite the entire speech bubble to make it sound natural. How difficult your job actually ends up being depends mostly on the skill and experience of the translator.
+**As a proofreader, your most basic task is taking translated text and making sure it sounds natural.** This does not mean just fixing grammatical mistakes and changing awkward word order - sometimes you'll have to completely rewrite the entire speech bubble to make it sound natural. How difficult your job actually ends up being depends mostly on the skill and experience of the translator. That can extend a relatively simple proofreading task into a much more in depth editing assignment.
+
+When proofreading, you should do multiple passes of the script, preferably in separate sittings. For page per day manga, you might be on a tight schedule, but for longer projects it's best to, at the very least, do the final pass on a different day.
+
+The workflow I generally use consists of multiple start-to-end read-throughs of the entire script:
+
+0. Transcribing the translations into a document (if not already), listing untranslated sound effects
+1. Proofreading and rough editing of anything that immediately sticks out or sounds weird
+2. Editing
+
+
 
 
 ## 🔎 Proofreading basics
@@ -56,7 +67,7 @@ It's easy to get carried away with punctuation to make a point, but you need to 
 Unless it's an extreme case (think maybe one every 100 pages), you should stick to the following:
 `!`, `!!`, `?`, `??`, `!??`, `?!!`, `??`, `.`, `...`
 
-For repeated letters, I have my own guideline I call "Rule of squares", and it's basically "don't repeat any single letter more than twice as many times as the previous (or next) letter". The above example already breaks that rule, but for words with effectively 3 different letters, having 3 is not too extreme. The rule also breaks down if there's letters you can't voice individually - if you try to voice "Augh" and try to stretch every single letter (like "aaaaaauuuuuugggggghhhhhh", you'll see that you can't stop on "G". For cases like this, avoid repeating "G" or any other letter.
+For repeated letters, I have my own guideline I call "Rule of squares", and it's basically "don't repeat any single letter more than twice as many times as the previous (or next) letter". The above example already breaks that rule, but for words with effectively 3 different letters, having 3 is not too extreme. The rule also breaks down if there's letters you can't voice individually - if you try to voice "Augh" and try to stretch every single letter (like "aaaaaauuuuuugggggghhhhhh", you'll see that you can't stop on "G". For cases like this, avoid repeating "G" or any other letter like it.
 
 Although exact correction would be context sensitive as well, here are some more sensible alternatives to the above:
 
@@ -72,6 +83,14 @@ Although exact correction would be context sensitive as well, here are some more
 
 (WIP)
 
+Depending on the skill of the translator, you might end up having to do more than just 
+
+> "The whole is more than the sum of its parts."
+
+
+Understanding what you're reading is an extremely important. If you don't know a word that's used, look it up - even most search engines can provide fairly exhaustive definitions including synonyms by just searching "define exhaustive". Because word-for-word translations rarely work, sometimes the words used sound right and is technically correct, but context wise is completely
+
+## ⛩️ Translator's notes
 
 
 # 🗾 "Reading" Japanese
