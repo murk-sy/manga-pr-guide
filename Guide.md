@@ -10,7 +10,7 @@ So you've read some manga and thought "Hey, I want to help with that!" and decid
 
 This guide covers the scanlation process from Japanese to English so some information is specific to that. At the time of writing this guide, I've only been proofreading for a few weeks, so don't take this document as a holy commandment.
 
-Don't let its length discourage you
+Don't let the length discourage you - skim through and once you find something you're unsure about, it's time to read in more detail.
 
 
 # 💮 The scanlation process
@@ -33,15 +33,18 @@ The actual order the process takes place in may depend on the group and project,
 
 **As a proofreader, your most basic task is taking translated text and making sure it sounds natural.** This does not mean just fixing grammatical mistakes and changing awkward word order - sometimes you'll have to completely rewrite the entire speech bubble to make it sound natural. How difficult your job actually ends up being depends mostly on the skill and experience of the translator. That can extend a relatively simple proofreading task into a much more in depth editing assignment.
 
-When proofreading, you should do multiple passes of the script, preferably in separate sittings. For page per day manga, you might be on a tight schedule, but for longer projects it's best to, at the very least, do the final pass on a different day.
+When proofreading, you should do multiple passes of the script, preferably in separate sittings. For page per day manga, you might be on a tight schedule, but for longer projects it's best to, at *the very least*, do the final pass on a different day.
 
 The workflow I generally use consists of multiple start-to-end read-throughs of the entire script:
 
 0. Transcribing the translations into a document (if not already), listing untranslated sound effects
 1. Proofreading and rough editing of anything that immediately sticks out or sounds weird
-2. Editing
+2. Editing and marking any lines that need translator feedback
+3. Contact translator to get further context
+4. Editing based on translator feedback
+5. Final read-through
 
-
+This is a rough outline - I generally do at least 4 passes, though that can depend wildly on the size of the project and translation quality. Usually I make minor changes during the final read-through as well.
 
 
 ## 🔎 Proofreading basics
@@ -78,19 +81,21 @@ Although exact correction would be context sensitive as well, here are some more
 * That's terrible...
 
 
-
 ## 🔬 Editing basics
 
-(WIP)
-
-Depending on the skill of the translator, you might end up having to do more than just 
+(TODO WIP)
 
 > "The whole is more than the sum of its parts."
 
 
-Understanding what you're reading is an extremely important. If you don't know a word that's used, look it up - even most search engines can provide fairly exhaustive definitions including synonyms by just searching "define exhaustive". Because word-for-word translations rarely work, sometimes the words used sound right and is technically correct, but context wise is completely
+(TODO REWRITE) Understanding what you're reading is an extremely important. If you don't know a word that's used, look it up - even most search engines can provide fairly exhaustive definitions including synonyms by just searching "define exhaustive". Because word-for-word translations rarely work, sometimes the words used sound right and are technically correct, but context wise end up being completely tone-deaf. "Kicked the bucket" is an example of a 
+
+(TODO example: official subs vs fansubs)
+
 
 ## ⛩️ Translator's notes
+
+(TODO example: keikaku means plan)
 
 
 # 🗾 "Reading" Japanese
@@ -168,7 +173,7 @@ Hiragana is most commonly used, though katakana or latin also make appearances.
 
 To make writing easier (or reading harder), there are several symbols that affect the way you read kana symbols.
 
-~~(TODO: Repetition marks, phonetic marks, somehow explain voiced consonants, other common quotation marks)~~
+(TODO Repetition marks, phonetic marks, somehow explain voiced consonants, other common quotation marks)
 
 Because repetition symbols used resemble quotation marks, different symbols are used for quotes:
 
