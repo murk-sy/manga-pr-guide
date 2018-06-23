@@ -30,6 +30,18 @@ The actual order the process takes place in may depend on the group and project,
 
 
 
+# 🕵️ Proofreading basics
+
+> The whole is more than the sum of its parts.
+
+If you've decided to go into proofreading, chances are you've read at least a few manga and are somewhat familiar with the basic tropes ~~(TODO: everything)~~
+
+
+> 🍙 Depending on the scanlation group, you may be required to do things differently, such as skipping sound effects, removing some honorifics, etc.
+
+
+
+
 # 🗾 "Reading" Japanese
 
 > ⚠️ **Important:** You do not *need* to read and understand this section to start proofreading. **This section is extremely simplified and some terms may be misnamed to get basic concepts across, based on my own understanding.** Some of these will help you understand how and why some text is written the way it is. *You don't need to memorize symbols or anything like that.* Additionally, this is **not** a basis for learning Japanese by any stretch of the imagination. Sources for this information are mostly listed in the [Sources](Sources.md) file. 
