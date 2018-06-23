@@ -8,8 +8,6 @@ For a more completed guide, see the Proofreading 101 guide by [tyresonance from 
 
 So you've read some manga and thought "Hey, I want to help with that!" and decided that proofreading sounds like something you'd like to do. That's great!
 
-**As a proofreader, your most basic task is taking translated text and making sure it sounds natural.** This does not mean just fixing grammatical mistakes and changing awkward word order - sometimes you'll have to completely rewrite the entire speech bubble to make it sound natural. How difficult your job actually ends up being depends mostly on the skill and experience of the translator.
-
 This guide covers the scanlation process from Japanese to English so some information is specific to that. At the time of writing this guide, I've only been proofreading for a few weeks, so don't take this document as a holy commandment.
 
 
@@ -30,15 +28,49 @@ The actual order the process takes place in may depend on the group and project,
 
 
 
-# 🕵️ Proofreading basics
+# 🕵️ Proofreading
 
-> The whole is more than the sum of its parts.
-
-If you've decided to go into proofreading, chances are you've read at least a few manga and are somewhat familiar with the basic tropes ~~(TODO: everything)~~
+**As a proofreader, your most basic task is taking translated text and making sure it sounds natural.** This does not mean just fixing grammatical mistakes and changing awkward word order - sometimes you'll have to completely rewrite the entire speech bubble to make it sound natural. How difficult your job actually ends up being depends mostly on the skill and experience of the translator.
 
 
-> 🍙 Depending on the scanlation group, you may be required to do things differently, such as skipping sound effects, removing some honorifics, etc.
+## 🔎 Proofreading basics
 
+At its core, proofreading consists of the following:
+
+- Fixing spelling errors
+- Fixing grammatical mistakes
+- Fixing quotation marks, apostrophes
+
+If you're a native English speaker or a fluent non-native speaker, spotting and fixing most of these should come natural. Regardless of that, even native speakers make common mistakes, such as misusing "they're" (contractive) and "their" (possessive) or writing "should of" (which is **never** correct) instead of "should have". While spell checking and most of the glaring grammatical errors can be found fairly reliably with a software solution, you should not rely on that.
+
+Sound effects (SFX) or any particularly emotional speech may be translated fairly awkwardly with a lot of punctuation or letter repetiton, and it is your job to make them more sensible. Some examples:
+
+* Huuuuuuuuh????
+* Aaauuuuuugggggggghhhhh!
+* WHY ARE WE STILL HERE??!!!
+* BOOOOOOOOOM!!!
+* That's terrible......
+
+It's easy to get carried away with punctuation to make a point, but you need to remember: what you're trying to do is something typesetters do by using different fonts, font sizes and word shapes. You don't convey a massive explosion by writing "BOOOOOOOOOM!!!!!" in Times New Roman, you do it by writing "BOOOM!" in a font with a rough look - with a good font, you don't even need punctuation.
+
+Unless it's an extreme case (think maybe one every 100 pages), you should stick to the following:
+`!`, `!!`, `?`, `??`, `!??`, `?!!`, `??`, `.`, `...`
+
+For repeated letters, I have my own guideline I call "Rule of squares", and it's basically "don't repeat any single letter more than twice as many times as the previous (or next) letter". The above example already breaks that rule, but for words with effectively 3 different letters, having 3 is not too extreme. The rule also breaks down if there's letters you can't voice individually - if you try to voice "Augh" and try to stretch every single letter (like "aaaaaauuuuuugggggghhhhhh", you'll see that you can't stop on "G". For cases like this, avoid repeating "G" or any other letter.
+
+Although exact correction would be context sensitive as well, here are some more sensible alternatives to the above:
+
+* Huuh??
+* Auuuughh!
+* WHY ARE WE STILL HERE!??
+* BOOOM!!
+* That's terrible...
+
+
+
+## 🔬 Editing basics
+
+(WIP)
 
 
 
@@ -70,7 +102,7 @@ In addition to that, there's:
 
 ### 🈁 Hiragana and Katakana
 
-Hiragana (i.e. ひらがな) and katakana (i.e. カタカナ) are similar scripts where each symbol basically corresponds to a syllable. There's 46 (ish) of each. The table below contains both hiragana (left) and katakana (right).
+Hiragana (i.e. ひらがな) and katakana (i.e. カタカナ) are similar scripts where each symbol basically corresponds to a syllable. There's 46 (ish) of each. The table below contains most of both hiragana (first) and katakana (second).
 
 |   | /     | k          | s     | t          | n          | h     | m     | y     | r     | w      |
 |---|-------|------------|-------|------------|------------|-------|-------|-------|-------|--------|
@@ -97,6 +129,10 @@ As an example, take 日本. Each symbol has multiple meanings:
 * 本 - book, volume, work, body of work, oeuvre, volume, book, playscript, script, base 
 
 Both symbols together mean "origin of the sun", which should remind you of the phrase "Land of the rising sun".
+
+You can think of kanji sort of like using emoji instead of a homonym word in order to distinguish the intent. Both sound the same, but have distinctly different meanings.
+* She learned that a 🙇 is not always the best way to approach people.
+* She learned that a 🏹 is not always the best way to approach people.
 
 > 💡 An important note on kanji is that in addition of multiple meanings, each symbol has *at least* 2 different ways of reading them. As names are written in kanji, they often include a reading aid (see Furigana). In manga, this sometimes leads to situations where a character will misread someone's name or a sign, which means the proofreader has to deal with the fallout of conveying the misunderstanding to the reader.
 
