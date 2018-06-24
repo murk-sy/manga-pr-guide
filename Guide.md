@@ -2,13 +2,14 @@
 
 For a more completed guide, see the Proofreading 101 guide by [tyresonance from Immortal Abyss forums](Immortalabyss-Proofreading%20101.md).
 
+> ☣️ **Tread lightly:** This guide still needs a through proofread itself.
 
 
 # 🛂 Introduction
 
 So you've read some manga and thought "Hey, I want to help with that!" and decided that proofreading sounds like something you'd like to do. That's great!
 
-This guide covers the scanlation process from Japanese to English so some information is specific to that. At the time of writing this guide, I've only been proofreading for a few weeks, so don't take this document as a holy commandment.
+This guide covers the scanlation process from Japanese to English, so some information is specific to that. At the time of writing this guide, I've only been proofreading for a few weeks, so don't take this document as a holy commandment.
 
 Don't let the length discourage you - skim through and once you find something you're unsure about, it's time to read in more detail.
 
@@ -31,9 +32,9 @@ The actual order the process takes place in may depend on the group and project,
 
 # 🕵️ Proofreading
 
-**As a proofreader, your most basic task is taking translated text and making sure it sounds natural.** This does not mean just fixing grammatical mistakes and changing awkward word order - sometimes you'll have to completely rewrite the entire speech bubble to make it sound natural. How difficult your job actually ends up being depends mostly on the skill and experience of the translator. That can extend a relatively simple proofreading task into a much more in depth editing assignment.
+**As a proofreader, your most basic task is taking translated text and making sure it sounds natural.** This does not always mean just fixing grammatical mistakes and changing awkward word order - sometimes you'll have to completely rewrite the entire speech bubble to make it sound natural. How difficult your job actually ends up being depends mostly on the skill and experience of the translator. That can extend a relatively simple proofreading task into a much more in depth editing assignment.
 
-When proofreading, you should do multiple passes of the script, preferably in separate sittings. For page per day manga, you might be on a tight schedule, but for longer projects it's best to, at *the very least*, do the final pass on a different day.
+When proofreading, you should do multiple passes of the script, preferably in separate sittings. For daily manga, you might be on a tight schedule, but for longer projects it's best to, at *the very least*, do the final pass on a different day.
 
 The workflow I generally use consists of multiple start-to-end read-throughs of the entire script:
 
@@ -46,6 +47,8 @@ The workflow I generally use consists of multiple start-to-end read-throughs of 
 
 This is a rough outline - I generally do at least 4 passes, though that can depend wildly on the size of the project and translation quality. Usually I make minor changes during the final read-through as well.
 
+Regardless of the quality of the translation, **you** are ultimately responsible for what gets put on the proverbial paper. Errors and inconsistencies arising from inaccurate translations are something you need to keep an eye out. If one speech bubble seems out of place or contradicts the rest of the dialogue, it's time to consult the translator.
+
 
 ## 🔎 Proofreading basics
 
@@ -55,7 +58,7 @@ At its core, proofreading consists of the following:
 - Fixing grammatical mistakes
 - Fixing quotation marks, apostrophes
 
-If you're a native English speaker or a fluent non-native speaker, spotting and fixing most of these should come natural. Regardless of that, even native speakers make common mistakes, such as misusing "they're" (contractive) and "their" (possessive) or writing "should of" (which is **never** correct) instead of "should have". While spell checking and most of the glaring grammatical errors can be found fairly reliably with a software solution, you should not rely on that.
+If you're a native English speaker or a fluent non-native speaker, spotting and fixing most of these should come natural. Regardless of that, even native speakers make common mistakes, such as misusing "they're" (contractive) and "their" (possessive) or writing "should of" (which is **never** correct) instead of "should have". While misspellings and most of the glaring grammatical errors can be found fairly reliably with a software solution, you should not rely on that.
 
 Sound effects (SFX) or any particularly emotional speech may be translated fairly awkwardly with a lot of punctuation or letter repetiton, and it is your job to make them more sensible. Some examples:
 
@@ -67,10 +70,11 @@ Sound effects (SFX) or any particularly emotional speech may be translated fairl
 
 It's easy to get carried away with punctuation to make a point, but you need to remember: what you're trying to do is something typesetters do by using different fonts, font sizes and word shapes. You don't convey a massive explosion by writing "BOOOOOOOOOM!!!!!" in Times New Roman, you do it by writing "BOOOM!" in a font with a rough look - with a good font, you don't even need punctuation.
 
-Unless it's an extreme case (think maybe one every 100 pages), you should stick to the following:
+Using punctuation sparingly makes the finished text look more professional, which is ultimately the goal. You should stick to the following:
+
 `!`, `!!`, `?`, `??`, `!??`, `?!!`, `??`, `.`, `...`
 
-For repeated letters, I have my own guideline I call "Rule of squares", and it's basically "don't repeat any single letter more than twice as many times as the previous (or next) letter". The above example already breaks that rule, but for words with effectively 3 different letters, having 3 is not too extreme. The rule also breaks down if there's letters you can't voice individually - if you try to voice "Augh" and try to stretch every single letter (like "aaaaaauuuuuugggggghhhhhh", you'll see that you can't stop on "G". For cases like this, avoid repeating "G" or any other letter like it.
+For repeating letters within words, I have my own guideline I call "Rule of squares", and it's basically "don't repeat any single letter more than twice as many times as the previous (or next) letter". The above example already breaks that rule, but for words with effectively 3 different letters, having 3 of the middle one is not too extreme. The rule also breaks down if there's letters you can't voice individually - if you try to voice "Augh" and try to stretch every single letter (like "aaaaaauuuuuugggggghhhhhh"), you'll see that you can't stop on "G". It's the same with P, T, K, B, D and G.
 
 Although exact correction would be context sensitive as well, here are some more sensible alternatives to the above:
 
@@ -93,7 +97,9 @@ Although exact correction would be context sensitive as well, here are some more
 (TODO example: official subs vs fansubs)
 
 
-## ⛩️ Translator's notes
+## ⛩️ Lost in translation
+
+With eastern and western cultures being vastly different, it won't take long to hit the first snag.
 
 (TODO example: keikaku means plan)
 
