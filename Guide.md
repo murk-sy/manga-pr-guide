@@ -129,22 +129,26 @@ In addition to that, there's:
 * Rōmaji - basically the latin alphabet
 * Arabic numerals - used in horizontal text (kanji also has a numeric system)
 
-(TODO note regarding plural)
 
 
 ### 🈁 Hiragana and Katakana
 
-Hiragana (i.e. ひらがな) and katakana (i.e. カタカナ), collectively called **Kana**, are similar scripts where each character basically corresponds to a syllable. There's 46 (ish) of each. The table below contains most of both hiragana (first) and katakana (second).
+Hiragana (i.e. ひらがな) and katakana (i.e. カタカナ), collectively called **Kana**, are similar scripts where each character basically corresponds to a syllable. There's 46 (ish) of each. The table below contains most of both hiragana (first) and katakana (second). Combine the consonant and vowel to the syllable.
 
-|   | /     | k          | s     | t          | n          | h     | m     | y     | r     | w      |
-|---|-------|------------|-------|------------|------------|-------|-------|-------|-------|--------|
-| a | あ ア | **か**  カ | さ サ  | **た**  タ | **な**  ナ | は ハ | ま マ | や ヤ | ら ラ | わ  ワ |
-| i | い イ | き キ      | し シ  | ち チ      | に ニ      | ひ ヒ | み ミ |       | り リ | ゐ ヰ  |
-| u | う ウ | く ク      | す ス  | つ ツ      | ぬ ヌ      | ふ フ | む ム | ゆ ユ | る ル |        |
-| e | え エ | け ケ      | せ セ  | て テ      | ね ネ      | へ ヘ | め メ |       | れ レ | ゑ ヱ  |
-| o | お オ | こ コ      | そ ソ  | と ト      | の ノ      | ほ ホ | も モ | よ ヨ | ろ ロ | を     |
+|    | /     | k-         | s-    | t(s)-       | n-         | h-    | m-    | y-    | r-    | w-     | n      |
+|----|-------|------------|-------|------------|------------|-------|-------|-------|-------|--------|--------|
+| -a | あ ア | **か**  カ | さ サ  | **た**  タ | **な**  ナ | は ハ | ま マ | や ヤ | ら ラ | わ  ワ |        |
+| -i | い イ | き キ      | し シ  | ち チ      | に ニ      | ひ ヒ | み ミ |       | り リ | ゐ ヰ  |        |
+| -u | う ウ | く ク      | す ス  | つ ツ      | ぬ ヌ      | ふ フ | む ム | ゆ ユ | る ル |        |        |
+| -e | え エ | け ケ      | せ セ  | て テ      | ね ネ      | へ ヘ | め メ |       | れ レ | ゑ ヱ  |        |
+| -o | お オ | こ コ      | そ ソ  | と ト      | の ノ      | ほ ホ | も モ | よ ヨ | ろ ロ | を     |        |
+| /  |       |           |        |            |           |       |      |       |       |        | ん ン    |
    
-The first column are just sounds A, E, I, O, U, while further columns indicate sounds like KA, SI, TU, NE, etc. You may notice there's no letter L anywhere, which is one of the reasons Japanese people can't really pronounce words containing L without resorting to R.
+The first column are just sounds A, E, I, O, U, while further columns indicate sounds like KA, SI, TU, NE, etc.
+
+Voicing marks  (`゛` - two lines and `゜` - circle) written at the top right of the character indicate the way the character is voiced. Simply put, letter P is made by adding a point to the h- kana, to make them half-voiced (は - ha, ぱ - pa).
+
+L is not listed anywhere, which is one of the reasons Japanese people can't really pronounce words containing L without resorting to R.
 
 For example, if you take the word かたかな and find it in the table (they're bolded), you will find that it spells KA-TA-KA-NA. If you do the same for カタカナ, you will find that the end result is exactly the same.
 
@@ -162,7 +166,7 @@ As an example, take 日本. Each character has multiple meanings:
 
 Both characters together mean "origin of the sun", which should remind you of the phrase "Land of the rising sun".
 
-
+Japanese does not have plural forms per se. Usually, there is a either a number or a counter (a special way of counting depending on the object being counted) indicating the amount. For some kanji, the same kanji can be used twice (for example 人 - person) to indicate plural form (for example 人人 - people) - see also "Iteration marks".
 
 You can think of kanji sort of like using emoji instead of a homonym word in order to distinguish the intent. Both sound the same, but have distinctly different meanings.
 * She learned that a 🙇 is not always the best way to approach people.
@@ -185,33 +189,49 @@ To make writing easier (or reading harder), there are several symbols and charac
 
 Iteration marks are used to repeat a single character, while repetition marks repeat two or more. For example, kanji 人人 ("people") is identical to 人々. You might recognize kanji 人 ("person"). For some kanji, repeating the character makes it into a plural form.
 
-* 々 - Kanji it. mark
-* ヽ - Katakana it. mark
-* ヾ - Katanaka it. mark (voiced consonant)
-* ゝ - Hiragana it. mark
-* ゞ - Hiragana it. mark (voiced consonant)
-* 〃 - Ditto mark (repeat word(s) above in lists)
-* 仝 - Kanji rep. mark
-* 〱 - Hiragana/katakana rep. mark
-* 〲 - Hiragana/katakana rep. mark (voiced consonant)
-* 〳 - Hiragana/katakana rep. mark (2 vertical characters)
+* 々 - kanji it. mark
+* ヽ - katakana it. mark
+* ヾ - katanaka it. mark (voiced consonant)
+* ゝ - hiragana it. mark
+* ゞ - hiragana it. mark (voiced consonant)
+* 〃 - ditto mark (repeat word(s) above in lists)
+* 仝 - kanji rep. mark
+* 〱 - hiragana/katakana rep. mark
+* 〲 - hiragana/katakana rep. mark (voiced consonant)
+* 〳 - hiragana/katakana rep. mark (2 vertical characters)
 * 〵
-* 〴 - Hiragana/katakana rep. mark (2 vertical characters)(voiced consonant)
+* 〴 - hiragana/katakana rep. mark (2 vertical characters)(voiced consonant)
 * 〵
 
-(TODO phonetic marks, somehow explain voiced consonants, other common quotation marks)
+Phonetic marks tell you how a character is read - for example changing a "ha" sound to "pa".
+
+* っ - hiragana, doubles the sound of the next consonant (smaller version of つ (tsu))
+* ッ - katakana, doubles the sound of the next consonant (smaller version of ツ (tsu))
+* ー - mostly Katakana, indicates longer sound of the previous vowel
+* ゛ - appended to the top right of hiragana/katakana, "dots" indicating voiced sound
+* ゜ - appended to the top right of hiragana/katakana, "circle" indicating half-voiced sound
+
+Punctuation is similar to what you're used to.
+
+* 。 - period
+* 、 - comma
+* ・ - middle point, used to separate foreign words and items in lists
+* ゠ - double hypen, used as a regular hypen
 
 Because repetition and voiced consonant symbols resemble quotation marks, different symbols are used for quotes:
 
-* **「** Quotation marks for when you're quoting someone. **」**
-* **『** Double quotation marks, for things like book titles **』**
+* 「 Quotation marks for when you're quoting someone. 」
+* 『 Double quotation marks, for things like book titles 』
+* 〔 For inserting comments within quoted text. 〕
+* 【 For use in headings, for example in dictionary definitions. 】
+* Other brackets: （）, ［］, ｛｝, ｟｠, 〈〉, 《》, 〖〗, 〘〙, 〚〛
 
-Other miscellaneous symbols:
+Other common miscellaneous symbols:
 
+* ※ - Reference mark (called "rice"), basically an asterisk*
 * ～ - Tilde used to indicate duration, such as "Monday ～ Friday"
-* ※ - Reference mark, used similarly to having an asterisk*
 * 〇 - Placeholder/censored mark, usually as many used as there were characters originally
-* 〒 - Japanese Post sign
+* 〒 - Japan Post sign
 
 
 
