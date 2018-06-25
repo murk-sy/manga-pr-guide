@@ -106,7 +106,7 @@ With eastern and western cultures being vastly different, it won't take long to 
 
 # 🗾 "Reading" Japanese
 
-> ⚠️ **Important:** You do not *need* to read and understand this section to start proofreading. **This section is extremely simplified and some terms may be misnamed to get basic concepts across, based on my own understanding.** Some of these will help you understand how and why some text is written the way it is. *You don't need to memorize symbols or anything like that.* Additionally, this is **not** a basis for learning Japanese by any stretch of the imagination. Sources for this information are mostly listed in the [Sources](Sources.md) file. 
+> ⚠️ **Important:** You do not *need* to read and understand this section to start proofreading. **This section is extremely simplified and some terms may be misnamed to get basic concepts across, based on my own understanding.** Knowing the nuances of Japanese language may help you understand the common mistakes and difficulties translators face. *You don't need to memorize characters or anything like that.* Additionally, this is **not** a basis for learning Japanese by any stretch of the imagination. Sources for this information are mostly listed in the [Sources](Sources.md) file. 
 
 ## 💬 Direction
 
@@ -120,7 +120,7 @@ Note that manga drawn in the style of 4-koma (4 panel top to bottom and usually 
 
 ## 😨 Japanese writing system
 
-There are 3 different scripts used in Japanese (collectively called **Kana**):
+There are 3 different scripts used in Japanese:
 * Hiragana
 * Katakana
 * Kanji
@@ -129,10 +129,12 @@ In addition to that, there's:
 * Rōmaji - basically the latin alphabet
 * Arabic numerals - used in horizontal text (kanji also has a numeric system)
 
+(TODO note regarding plural)
+
 
 ### 🈁 Hiragana and Katakana
 
-Hiragana (i.e. ひらがな) and katakana (i.e. カタカナ) are similar scripts where each symbol basically corresponds to a syllable. There's 46 (ish) of each. The table below contains most of both hiragana (first) and katakana (second).
+Hiragana (i.e. ひらがな) and katakana (i.e. カタカナ), collectively called **Kana**, are similar scripts where each character basically corresponds to a syllable. There's 46 (ish) of each. The table below contains most of both hiragana (first) and katakana (second).
 
 |   | /     | k          | s     | t          | n          | h     | m     | y     | r     | w      |
 |---|-------|------------|-------|------------|------------|-------|-------|-------|-------|--------|
@@ -152,19 +154,21 @@ Hiragana is generally used for native words, while Katakana is used much more br
 
 ### ㊙️ Kanji
 
-Kanji (ie: 漢字) is a script based on Chinese Han characters, where each symbol represents a concept, basically either a noun or a verb. There are 2000 to 3000 kanji in everyday use, and there is no exact count of how many there are in total - over 50 thousand at the very least.
+Kanji (ie: 漢字) is a script based on Chinese Han characters, where each character represents a concept, basically either a noun or a verb. There are 2000 to 3000 kanji in everyday use, and there is no exact count of how many there are in total - over 50 thousand at the very least.
 
-As an example, take 日本. Each symbol has multiple meanings:
+As an example, take 日本. Each character has multiple meanings:
 * 日 - schedule, time, sunshine, day, date, sun
 * 本 - book, volume, work, body of work, oeuvre, volume, book, playscript, script, base 
 
-Both symbols together mean "origin of the sun", which should remind you of the phrase "Land of the rising sun".
+Both characters together mean "origin of the sun", which should remind you of the phrase "Land of the rising sun".
+
+
 
 You can think of kanji sort of like using emoji instead of a homonym word in order to distinguish the intent. Both sound the same, but have distinctly different meanings.
 * She learned that a 🙇 is not always the best way to approach people.
 * She learned that a 🏹 is not always the best way to approach people.
 
-> 💡 An important note on kanji is that in addition of multiple meanings, each symbol has *at least* 2 different ways of reading them. As names are written in kanji, they often include a reading aid (see Furigana). In manga, this sometimes leads to situations where a character will misread someone's name or a sign, which means the proofreader has to deal with the fallout of conveying the misunderstanding to the reader.
+> 💡 An important note on kanji is that in addition of multiple meanings, each character has *at least* 2 different ways of reading them. As names are written in kanji, they often include a reading aid (see Furigana). In manga, this sometimes leads to situations where a character will misread someone's name or a sign, which means the proofreader has to deal with the fallout of conveying the misunderstanding to the reader.
 
 #### 📛 Furigana
 
@@ -177,15 +181,37 @@ Hiragana is most commonly used, though katakana or latin also make appearances.
 
 ## ❔ Punctuation and typographical symbols
 
-To make writing easier (or reading harder), there are several symbols that affect the way you read kana symbols.
+To make writing easier (or reading harder), there are several symbols and characters that affect the way you read characters.
 
-(TODO Repetition marks, phonetic marks, somehow explain voiced consonants, other common quotation marks)
+Iteration marks are used to repeat a single character, while repetition marks repeat two or more. For example, kanji 人人 ("people") is identical to 人々. You might recognize kanji 人 ("person"). For some kanji, repeating the character makes it into a plural form.
 
-Because repetition symbols used resemble quotation marks, different symbols are used for quotes:
+* 々 - Kanji it. mark
+* ヽ - Katakana it. mark
+* ヾ - Katanaka it. mark (voiced consonant)
+* ゝ - Hiragana it. mark
+* ゞ - Hiragana it. mark (voiced consonant)
+* 〃 - Ditto mark (repeat word(s) above in lists)
+* 仝 - Kanji rep. mark
+* 〱 - Hiragana/katakana rep. mark
+* 〲 - Hiragana/katakana rep. mark (voiced consonant)
+* 〳 - Hiragana/katakana rep. mark (2 vertical characters)
+* 〵
+* 〴 - Hiragana/katakana rep. mark (2 vertical characters)(voiced consonant)
+* 〵
+
+(TODO phonetic marks, somehow explain voiced consonants, other common quotation marks)
+
+Because repetition and voiced consonant symbols resemble quotation marks, different symbols are used for quotes:
 
 * **「** Quotation marks for when you're quoting someone. **」**
 * **『** Double quotation marks, for things like book titles **』**
 
+Other miscellaneous symbols:
+
+* ～ - Tilde used to indicate duration, such as "Monday ～ Friday"
+* ※ - Reference mark, used similarly to having an asterisk*
+* 〇 - Placeholder/censored mark, usually as many used as there were characters originally
+* 〒 - Japanese Post sign
 
 
 
